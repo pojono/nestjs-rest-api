@@ -4,6 +4,8 @@
 
 ## Description
 
+This is my backend service based on NestJS framework.
+
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 ## Installation
